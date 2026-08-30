@@ -49,7 +49,7 @@ This project analyzes **301 vehicle listings** to uncover critical factors drivi
 
 ```text
 ├── car_Dekho_DA.csv          # Raw Used Car Dataset (301 entries, 9 columns)
-├── car_dekho_analysis.py     # Complete EDA and Visualization Script
+├── car_dekho_analysis.ipynb     # Complete EDA and Visualization Script
 ├── images/                   # Exported visual plots for PPT and Documentation
 │   ├── fuel_type_dynamics.png
 │   └── seller_channel_variance.png
